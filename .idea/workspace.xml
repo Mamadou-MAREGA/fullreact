@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdad5a2d-9ba3-4cd1-9874-f315ea4a5046" name="Default Changelist" comment="" />
+    <list default="true" id="fdad5a2d-9ba3-4cd1-9874-f315ea4a5046" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Client/src/Blog/addpost.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/Blog/editpost.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/Blog/posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/Blog/showpost.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/containers/container1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/containers/form1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/containers/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/containers/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/containers/renderlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/functionnal/callback.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/functionnal/component1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/functionnal/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/functionnal/privatecomponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/functionnal/renderlistitem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/functionnal/signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/functionnal/unauthredirect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/Client/src/App.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +50,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1jm0gSEoqrhlSBAv97nbLovZlnB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -46,6 +80,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -63,7 +98,8 @@
       <option name="presentableId" value="Default" />
       <updated>1604394070490</updated>
       <workItem from="1604394078594" duration="5968000" />
-      <workItem from="1604400350806" duration="15707000" />
+      <workItem from="1604400350806" duration="16518000" />
+      <workItem from="1604479751941" duration="8900000" />
     </task>
     <servers />
   </component>
@@ -95,6 +131,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1345" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1604400226555" />
+    <state x="184" y="26" key="SettingsEditor" timestamp="1604479872054">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1604479872054" />
     <state x="339" y="172" key="run.anything.popup" timestamp="1604423534531">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
